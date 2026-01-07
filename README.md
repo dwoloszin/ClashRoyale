@@ -10,3 +10,8 @@ USER_TAG = "#CLAN_TAG"
 
 
 # RUN claninfo.py
+
+# OBS
+Keep in mind that your API token must be created with the IP address of you host:
+https://developer.clashroyale.com
+
